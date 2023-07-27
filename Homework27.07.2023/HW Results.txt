@@ -1,2 +1,2 @@
 Apache Jmeter Test status: Sucesses
-Short Test Review: All 50 Http requests run succesfully. All 150 assertions Passed.
+Short Test Review: All 50 Http requests run successfully. All 150 assertions Passed.
